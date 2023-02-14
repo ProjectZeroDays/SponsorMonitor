@@ -71,9 +71,9 @@ rfc3986==1.4.0 \
 sniffio==1.1.0 \
     --hash=sha256:20ed6d5b46f8ae136d00b9dcb807615d83ed82ceea6b2058cecb696765246da5 \
     --hash=sha256:8e3810100f69fe0edd463d02ad407112542a11ffdc29f67db2bf3771afb87a21
-starlette==0.13.4 \
-    --hash=sha256:0fb4b38d22945b46acb880fedee7ee143fd6c0542992501be8c45c0ed737dd1a \
-    --hash=sha256:04fe51d86fd9a594d9b71356ed322ccde5c9b448fc716ac74155e5821a922f8d
+starlette==0.25.0 \
+    --hash=sha256:774f1df1983fd594b9b6fb3ded39c2aa1979d10ac45caac0f4255cbe2acb8628 \
+    --hash=sha256:854c71e73736c429c2bdb07801f2c76c9cba497e7c3cf4988fde5e95fe4cdb3c
 uvicorn==0.11.5 \
     --hash=sha256:50577d599775dac2301bac8bd5b540d19a9560144143c5bdab13cba92783b6e7 \
     --hash=sha256:596eaa8645b6dbc24d6610e335f8ddf5f925b4c4b86fdc7146abb0bf0da65d17
